@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:6d28d9&height=140&section=header&text=Ryan%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50" width="100%"/>
-
-**System Analysis and Development student**
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:7c3aed&height=180&section=header&text=Ryan%20Ferreira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=System%20Analysis%20and%20Development%20student&descAlign=50&descAlignY=58&descSize=12" width="100%"/>
 
 > *I don’t always know exactly what I’m doing.*
 > 
@@ -12,6 +8,8 @@
 
 [![My portfolio](https://img.shields.io/badge/Portfolio-outdated-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://ryanmferreira.github.io/)
 [![E-mail](https://img.shields.io/badge/Email-dev.ryanmferreira@outlook.com-7c3aed?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:dev.ryanmferreira@outlook.com)
+
+---
 
 ### Stack
 
@@ -23,4 +21,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:6d28d9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:7c3aed&height=100&section=footer" width="100%"/>
